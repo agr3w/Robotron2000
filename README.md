@@ -6,7 +6,7 @@ Projeto de JavaScript produzido no curso: "JavaScript: manipulando o DOM" na pla
 | -------------  | --- |
 | :sparkles: Nome        | **Robotron 2000**
 | :label: Tecnologias | javaScript, html e CSS
-| :rocket: URL         | 
+| :rocket: URL         | https://agr3w.github.io/Robotron2000/
 | :fire: Curso     | JavaScript: manipulando o DOM
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
