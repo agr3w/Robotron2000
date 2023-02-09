@@ -14,4 +14,4 @@ Projeto de JavaScript produzido no curso: "JavaScript: manipulando o DOM" na pla
 
 ## Detalhes do projeto
 
-Durante toda a produção do site eu me diverti muito. Encarei alguns desafios durante a produção dele, mas com calma e persistência encontrei os erros e segui em frente.
+Durante toda a produção do site eu me diverti muito. Encarei alguns desafios durante a produção dele, mas com calma e persistência encontrei os erros e segui em frente. **Versão para celular ainda não disponivel***
